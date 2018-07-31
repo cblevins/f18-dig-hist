@@ -1,14 +1,14 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/f18-dig-hist"
-url:            "https://cblevins.github.io"
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
 # Author
 author:
-  name:         Cameron Blevins
-  url:          https://cameronblevins.org
-#  email:        chesterhow@gmail.com
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
