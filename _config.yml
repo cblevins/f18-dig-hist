@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          "Texts, Maps, and Networks:<br>Digital History"
+description:    "Northeastern University, Fall 2018"
 baseurl:        "/f18-dig-hist"
 url:            "https://cblevins.github.io"
 
@@ -8,7 +8,20 @@ url:            "https://cblevins.github.io"
 author:
   name:         Cameron Blevins
   url:          https://cameronblevins.org
-#  email:        chesterhow@gmail.com
+  email: c.blevins@northeastern.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Northeastern University, Fall 2018
+university: Northeastern University
+course_number: "HIST 1130"
+semester: "Fall 2018"
+room: "Snell Engineering Center, Room 108"
+meetingtime: "Mon/Wed/Thurs 9:15-10:20"
+
+instructor: Cameron Blevins
+email: c.blevins@northeastern.edu
+office: "237 Meserve Hall"
+officehours: "By Appointment"
+
 
 # Build settings
 markdown:       kramdown
