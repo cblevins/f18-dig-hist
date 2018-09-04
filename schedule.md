@@ -32,7 +32,7 @@ _Assignments_
 
 *Note: Digital Scholarship Group / NULab Fall Welcome Event on Monday, 9/24, from 3:00-5:00pm*
 
-### Week 4, 9/26: Public History and Online Exhibits
+### Week 4, 9/26: Public History and Digital Collections
 
 _Reading_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*. 
@@ -60,33 +60,25 @@ _Reading_
 _Assignments_
 - Erin Bush, ["Creating a Narrative Timeline with Timeline JS"](http://teaching.erinbush.org/tutorial-creating-narrative-timeline-timeline-js/)
 
-### Week 7, 10/17: Maps I
+### Week 7, 10/17: Maps
 
 _Reading_
-- TBD
+- Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, <https://dsl.richmond.edu/panorama/redlining/>
+- Digital Scholarship Lab, “Renewing Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, <http://dsl.richmond.edu/panorama/renewal/>
 
 _Assignments_
-- Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, ["Intro to Google Maps and Google Earth"](https://programminghistorian.org/en/lessons/googlemaps-googleearth) *The Programming Historian*
+- Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, ["Installing QGIS 2.0 and Adding Layers"](https://programminghistorian.org/en/lessons/qgis-layers) *The Programming Historian*
 
-### Week 8, 10/24: Maps II
-
-_Reading_
-- TBD
-
-_Assignments_
-- Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, ["Creating New Vector Layers in QGIS 2.0"](https://programminghistorian.org/en/lessons/vector-layers-qgis) *The Programming Historian*
-
-### Week 9, 10/31: Texts
+### Week 8, 10/24: Texts
 
 _Reading_
 - Kellen Funk and Lincoln Mullen, ["The Spine of American Law: Digital Text Analysis and U.S. Legal Practice"](https://doi.org/10.1093/ahr/123.1.132), *American Historical Review*, Volume 123, Issue 1, 1 February 2018, p. 132–164.
-- Ted Underwood, David Bamman, and Sabrina Lee ["
-The Transformation of Gender in English-Language Fiction"](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/), *Cultural Analytics*, 13 February 2018.
+- Ted Underwood, David Bamman, and Sabrina Lee ["The Transformation of Gender in English-Language Fiction"](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/), *Cultural Analytics*, 13 February 2018.
 
 _Assignments_
--  Roy Rosenzweig Center for History and New Media, [Voyant Tutorial](http://history2016.doingdh.org/voyant-tutorial/), *Doing Digital History: 2016* 
+-  Roy Rosenzweig Center for History and New Media, [Voyant Tutorial](http://history2016.doingdh.org/voyant-tutorial/), *Doing Digital History: 2016*
 
-### Week 10, 11/7: Networks
+### Week 9, 10/31:  Networks
 
 _Reading_
 - Maeve Kane, "For Wagrassero’s Wife’s Son: Colonialism and the Structure of Indigenous Women’s Social Connections, 1690–1730" *Journal of Early American History*, Volume 7, Issue 2, p. 89 – 114 (2017).
@@ -98,19 +90,21 @@ _Assignments_
 
 ## III. Putting it Together
 
-**YOU** will be in the driver’s seat for Weeks 11 and 12.
+**YOU** will be in the driver’s seat for Weeks 10 and 11.
 1. The class will vote on a topic(s) that you would like to learn more about. This can consist of revisiting a topic (ex. “we want to know more about spatial history”) or exploring a brand-new topic (ex. “we want to learn about machine learning”). I will then select readings for these two weeks and we will discuss them during the first hour of class.
 2. Each student will choose **one method or skill** that you want to learn in more depth. I will be working with each of you to find tutorials, hands-on practicums, or other strategies that you will work on during the second half of these classes.
+
+### Week 10, 11/7: Practicum
+
+_Reading_
+- TBD
 
 ### Week 11, 11/14: Practicum
 
 _Reading_
 - TBD
 
-### Week 12, 11/21: Practicum
-
-_Reading_
-- TBD
+### ~~Week 12, 11/21: No Class, Official Holiday~~
 
 ### Week 13, 11/28: The Big Picture | Project Workshop
 
