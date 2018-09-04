@@ -18,7 +18,6 @@ _Assignments_
 - Register for an account and domain name with [Reclaim Hosting](https://reclaimhosting.com/pricing/) (Cost: $25).
 - Install Wordpress on your website: <https://reclaimhosting.com/portfolio-resource-guide/installing-wordpress/>. 
 
-
 ## II. Approaches and Methods
 
 ### Week 3, 9/19: Archives and Historical Data
@@ -31,7 +30,7 @@ _Reading_
 _Assignments_
 - Complete tutorial: Miriam Posner, ["Get started with OpenRefine"](http://miriamposner.com/classes/dh101f17/tutorials-guides/data-manipulation/get-started-with-openrefine/)
 
-**Note: Digital Scholarship Group / NULab Fall Welcome Event on Monday, 9/24, from 3:00-5:00pm**
+*Note: Digital Scholarship Group / NULab Fall Welcome Event on Monday, 9/24, from 3:00-5:00pm*
 
 ### Week 4, 9/26: Public History and Online Exhibits
 
