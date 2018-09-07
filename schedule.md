@@ -17,6 +17,7 @@ _Reading_
 _Assignments_
 - Register for an account and domain name with [Reclaim Hosting](https://reclaimhosting.com/pricing/) (Cost: $25).
 - Install Wordpress on your website: <https://reclaimhosting.com/portfolio-resource-guide/installing-wordpress/>. 
+- Join the class Slack channel (check email for invitation).
 
 ## II. Approaches and Methods
 
@@ -30,7 +31,9 @@ _Reading_
 _Assignments_
 - Complete tutorial: Miriam Posner, ["Get started with OpenRefine"](http://miriamposner.com/classes/dh101f17/tutorials-guides/data-manipulation/get-started-with-openrefine/)
 
-*Note: Digital Scholarship Group / NULab Fall Welcome Event on Monday, 9/24, from 3:00-5:00pm*
+*Discussion leader: Hailey and Mahala*
+
+**Note:** Digital Scholarship Group / NULab Fall Welcome Event on Monday, 9/24, from 3:00-5:00pm
 
 ### Week 4, 9/26: Public History and Digital Collections
 
@@ -38,11 +41,13 @@ _Reading_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*. 
 
 _Assignments_
-- Choose one public history website built with Omeka and write a 500-700 word review of the website on your personal webpage. Here's a list of showcased projects: <https://omeka.org/classic/showcase/>. Include screenshots of relevant points.
+- Choose one public history website built with Omeka and write a 500-word review of the website on your personal webpage. Here's a list of showcased projects: <https://omeka.org/classic/showcase/>.
+
+*Discussion leader: Meg*
 
 ### Week 5, 10/3: Virtual Reality 
 
-**Note: Class will meet in Snell Library Room 140**
+*Note: Class will meet in Snell Library Room 140*
 
 _Reading_
 - Nikki Erlick, ["20,000-year-old artifacts, 21st-century technology: Museums are turning to virtual reality, apps, and interactive experiences to keep tech-savvy visitors engaged"](https://www.theverge.com/2017/5/6/15563922/museums-vr-ar-apps-digital-technology) *The Verge*, 6 May 2017.
@@ -50,7 +55,9 @@ _Reading_
 _Assignments_
 - Complete "Getting Started With SketchUp" tutorials, [Parts 1 and 2](https://www.sketchup.com/learn/videos/826). *Note: You can either download a trial version of SketchUp or use Snell library's computers*
 
-### Week 6, 10/10: Visualization
+*Discussion leader: Gabrielle and Shannon*
+
+### Week 6, 10/10: Visualization 
 
 _Reading_
 - Lauren Klein, ["Feminist Data Visualization; Or, the Shape of History"](http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history/), 24 January 2017.
@@ -59,6 +66,8 @@ _Reading_
 
 _Assignments_
 - Erin Bush, ["Creating a Narrative Timeline with Timeline JS"](http://teaching.erinbush.org/tutorial-creating-narrative-timeline-timeline-js/)
+
+*Discussion leader: Emma*
 
 ### Week 7, 10/17: Maps
 
@@ -69,6 +78,8 @@ _Reading_
 _Assignments_
 - Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, ["Installing QGIS 2.0 and Adding Layers"](https://programminghistorian.org/en/lessons/qgis-layers) *The Programming Historian*
 
+*Discussion leader: Cassie*
+
 ### Week 8, 10/24: Texts
 
 _Reading_
@@ -77,6 +88,8 @@ _Reading_
 
 _Assignments_
 -  Roy Rosenzweig Center for History and New Media, [Voyant Tutorial](http://history2016.doingdh.org/voyant-tutorial/), *Doing Digital History: 2016*
+
+*Discussion leader: Carly*
 
 ### Week 9, 10/31:  Networks
 
@@ -87,6 +100,8 @@ Autumn 2012.
 
 _Assignments_
 - Miriam Posner, ["Getting Started with Palladio"](https://github.com/miriamposner/palladio_workshop/blob/master/Getting_Started_with_Palladio.md)
+
+*Discussion leader: Aaron*
 
 ## III. Putting it Together
 
