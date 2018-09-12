@@ -24,7 +24,7 @@ _Assignments_
 ### Week 3, 9/19: Archives and Historical Data
 
 _Reading_
-- Michel-Rolph Trouillot, *Silencing the Past* (1997), Chapter 1 (pp. 1-31)
+- Michel-Rolph Trouillot, *Silencing the Past* (1997), Chapter 1 (pp. 1-31) [[Access to ebook through Northeastern](https://www-fulcrum-org.ezproxy.neu.edu/epubs/ft848q95r)]
 - Lara Putnam, ["The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,"](https://doi.org/10.1093/ahr/121.2.377) *The American Historical Review*, Volume 121, Issue 2, 1 April 2016, pp. 377–402.
 - Trevor Owens, ["What Do you Mean by Archive? Genres of Usage for Digital Preservers"](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/) 27 February 2014. 
 
