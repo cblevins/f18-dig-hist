@@ -41,7 +41,13 @@ _Reading_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*. 
 
 _Assignments_
-- Choose one public history website built with Omeka and write a 500-word review of the website on your personal webpage. Here's a list of showcased projects: <https://omeka.org/classic/showcase/>.
+- Post a 500-word review on your personal webpage of your assigned Omeka site ([Colored Conventions](http://coloredconventions.org/), [Histories of the National Mall](http://mallhistory.org/), or [Goin' North](https://goinnorth.org/)). Critically evaluate the site in terms of content, scope and purpose. Try to focus more on the collection itself, rather than on the aesthetics of the site. Some questions to consider:
+  * Who created the site? 
+  * What is its stated purpose/goal? 
+  * Does it accomplish this goal? Why or why not? 
+  * How large is the collection and what kind of **items** does it contain?
+  * How are items organized and displayed?
+  * How does it approach metadata (information about individual items)?
 
 *Discussion leader: Meg*
 
