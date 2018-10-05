@@ -68,11 +68,11 @@ _Assignments_
 _Reading_
 - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 - Lauren Klein, ["Feminist Data Visualization; Or, the Shape of History"](http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history/), 24 January 2017.
-- *Optional*: Frederick W. Gibbs, ["New Forms of History: Critiquing Data and Its Representations"](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/) *The American Historian*, February 2016.
+- Frederick W. Gibbs, ["New Forms of History: Critiquing Data and Its Representations"](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/) *The American Historian*, February 2016.
 - Familiarize yourself with your assigned visualization made by Professor Benjamin Schmidt in preparation for his class visit (see Slack channel for assigned group).
 
 _Assignments_
-- Erin Bush, ["Creating a Narrative Timeline with Timeline JS"](http://teaching.erinbush.org/tutorial-creating-narrative-timeline-timeline-js/)
+- In-Class: Erin Bush, ["Creating a Narrative Timeline with Timeline JS"](http://teaching.erinbush.org/tutorial-creating-narrative-timeline-timeline-js/)
 
 *Discussion leader: Emma*
 
