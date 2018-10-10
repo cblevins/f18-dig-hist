@@ -83,7 +83,7 @@ _Reading_
 - Digital Scholarship Lab, “Renewing Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, <http://dsl.richmond.edu/panorama/renewal/>
 
 _Assignments_
-- Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, ["Installing QGIS 2.0 and Adding Layers"](https://programminghistorian.org/en/lessons/qgis-layers) *The Programming Historian*
+- Download and install [Tableau Public](https://public.tableau.com/en-us/s/download/).
 
 *Discussion leader: Cassie*
 
