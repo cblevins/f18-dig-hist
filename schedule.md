@@ -83,7 +83,7 @@ _Reading_
 - Digital Scholarship Lab, “Renewing Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, <http://dsl.richmond.edu/panorama/renewal/>
 
 _Assignments_
-- Download and install [Tableau Public](https://public.tableau.com/en-us/s/download/).
+- Complete first part (just Google Maps) of: Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, "Intro to Google Maps and Google Earth," The Programming Historian 2 (2013), <https://programminghistorian.org/en/lessons/googlemaps-googleearth>
 
 *Discussion leader: Cassie*
 
