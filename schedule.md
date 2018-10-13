@@ -101,7 +101,7 @@ _Assignments_
 ### Week 9, 10/31:  Networks
 
 _Reading_
-- Maeve Kane, "For Wagrassero’s Wife’s Son: Colonialism and the Structure of Indigenous Women’s Social Connections, 1690–1730" *Journal of Early American History*, Volume 7, Issue 2, p. 89 – 114 (2017).
+- Maeve Kane, ["All One People and Under One King"](https://maevekane.net/wmq-uc/), presentation at William and Mary Quarterly Digital Research in Early America Forum at University of California Irvine, October 11-12, 2018.
 - Pamela Fletcher and Anne Helmreich, ["Local/Global: Mapping Nineteenth-Century London's Art Market"](http://www.19thc-artworldwide.org/autumn12/fletcher-helmreich-mapping-the-london-art-market) *Nineteenth-Century Art Worldwide*, Volume 11, Issue 3, 
 Autumn 2012.
 
