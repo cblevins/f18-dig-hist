@@ -17,7 +17,7 @@ Navigate to the Advanced Search tab at Chronicling America: <https://chronicling
 - How many results are there?
 - Where are *three states* that are represented in these results?
 
-Change your Advanced Search to narrow it down further: newspapers that were printed on Halloween in the year 1900, in the state of Minnesota, and that contain the word `halloween`. Copy and paste the resulting URL address from your results page into a plain text editor - typically TextEdit for Mac or WordPad for Windows. This type of URL acts as a set of instructions to the database that tells it was what kind of results to show you based on certain "parameters" (such as the date or state of publication). 
+Change your Advanced Search to narrow it down further: newspapers that were printed on Halloween in the year 1900, in the state of Minnesota, and that contain the word `halloween`. Copy and paste the resulting URL address from your results page into a plain text editor - typically TextEdit for Mac or Notepad for Windows. This type of URL acts as a set of instructions to the database that tells it was what kind of results to show you based on certain "parameters" (such as the date or state of publication). 
 
 Re-paste a second version of the URL in your text editor and then try to modify the text so that if you load the URL in a web browser it returns newspapers that meet the following criteria:
   
