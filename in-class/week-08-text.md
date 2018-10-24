@@ -43,7 +43,7 @@ Check in with Cameron once you have finished Part I.
 
 In this section, we're going to try and process and assemble text so that you can perform analysis on it. First, create a new folder on your computer named `week-8`. 
 
-On the same page that shows the OCR'd version of your newspaper page (ex. <https://chroniclingamerica.loc.gov/lccn/sn84020558/1918-12-25/ed-1/seq-9/ocr/>, scroll down to the bottom of the page and click on the `ocr` link. This is a link to a file that is *only* the raw, OCR'd text (and does not include any metadata. If you click on that link it will bring you to a URL that has ".txt" at the end. This means that your browser is showing you a text file rather than a webpage file (ex. if it ended in ".html").
+On the same page that shows the OCR'd version of your newspaper page (ex. <https://chroniclingamerica.loc.gov/lccn/sn84020558/1918-12-25/ed-1/seq-9/ocr/>, scroll down to the bottom of the page and click on the `txt` link. This is a link to a file that is *only* the raw, OCR'd text (and does not include any metadata. If you click on that link it will bring you to a URL that has ".txt" at the end. This means that your browser is showing you a text file rather than a webpage file (ex. if it ended in ".html").
 
 Back in your browser, save the OCR text file into the `week-8` folder you created. Now you need to rename the file so that it tells you information about where it came from (its metadata). Instead of making up a name, go back to your browser and look at the URL. It should contain unique information that identifies which page, issue, and newspaper the text came from. 
 
