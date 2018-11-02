@@ -119,7 +119,9 @@ _Assignments_
 ### Week 10, 11/7: Practicum
 
 _Reading_
-- TBD
+- Andrew Hurley, "Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide" *The Public Historian*, Vol. 38 No. 1, February 2016 (pp. 69-88).
+- Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
+- Supplemental: Explore Kate Bagnall and Tim Sherratt's [Invisible Australians](http://invisibleaustralians.org/) and read ["‘A map and some pins’: Open data and Unlimited Horizons"](http://discontents.com.au/a-map-and-some-pins-open-data-and-unlimited-horizons/)
 
 ### Week 11, 11/14: Practicum
 
