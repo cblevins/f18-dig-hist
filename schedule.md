@@ -126,6 +126,10 @@ _Reading_
 ### Week 11, 11/14: Practicum
 
 _Reading_
+- Nathan Yau, **Data Points: Visualization That Means Something**, Ch. 5: Visualizing with Clarity, pp. 201-240.
+- Catherine D'Ignazio and Lauren Klein, **Data Feminism** [Chapter 5: The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo) (draft in review).
+
+_Reading_
 - TBD
 
 ### ~~Week 12, 11/21: No Class, Official Holiday~~
