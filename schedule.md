@@ -15,7 +15,7 @@ _Reading_
 - Nicholas Confessore et al., ["The Follower Factory"](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html) *New York Times*, 27 January 2018.
 
 _Assignments_
-- Register for an account and domain name with [Reclaim Hosting](https://reclaimhosting.com/pricing/) (Cost: $25).
+- Register for a personal account and domain name with [Reclaim Hosting](https://reclaimhosting.com/pricing/) (Cost: $25).
 - Install Wordpress on your website: <https://reclaimhosting.com/portfolio-resource-guide/installing-wordpress/>. 
 - Join the class Slack channel (check email for invitation).
 
